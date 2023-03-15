@@ -4,31 +4,7 @@
 
 This is a simple application a dog lover might use to assist them in locating dog parks. Upon entering the city/town of their choice, the user will be presented with a map of that location, featuring markers with infowindows showing the name, address, and rating of each dog park. They will also see that information in list form along the left side of the screen.
 
-## Acceptance Criteria
-
-In creating this application, our team was tasked with the following acceptance criteria: 
-
-1.  Use a CSS framework other than Bootstrap.
-
-2.  Be deployed to GitHub Pages.
-
-3.  Be interactive (i.e., accept and respond to user input).
-
-4.  Use at least two server-side APIs.
-
-5.  Does not use alerts, confirms, or prompts (use modals).
-
-6.  Use client-side storage to store persistent data.
-
-7.  Be responsive.
-
-8.  Have a polished UI.
-
-9.  Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.).
-
-10. Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
-
-By meeting these goals, this application/project demonstrates our growing knowledge of server-side APIs(Google Maps, Google Places, Open Weather), GitHub, Agile, HTML, CSS, Bulma, JavaScript, JQuery, Git, and Canva. 
+This application/project demonstrates knowledge of server-side APIs(Google Maps, Google Places, Open Weather), GitHub, Agile, HTML, CSS, Bulma, JavaScript, JQuery, Git, and Canva. 
 
 <br>
 
